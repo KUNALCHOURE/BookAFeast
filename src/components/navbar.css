@@ -16,3 +16,13 @@ body, html {
     color: #333; 
     margin-left: 5px;
 }
+
+.btn{
+    margin: 10px;
+    height: 30px;
+    width: 70px;
+    background-color: #c92a3a;
+    color: white;
+    border-radius: 25px;
+    border: none;
+}

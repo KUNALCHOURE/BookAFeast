@@ -12,8 +12,8 @@ export default function Navbar(){
 
             </div>
             <div className="user">
-                <button>Sign in</button>
-                <button>Log in</button>
+                <button className='btn'>Sign in</button>
+                <button className='btn'>Log in</button>
             </div>
           </div>
         </>
