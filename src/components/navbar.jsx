@@ -1,5 +1,5 @@
-
-export default function navbar(){
+import './navbar.css'
+export default function Navbar(){
 
      return (
         <>
