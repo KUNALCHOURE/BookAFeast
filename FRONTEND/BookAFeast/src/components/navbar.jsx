@@ -8,7 +8,13 @@ export default function Navbar(){
             <div className="heading">
                 <h1>BookAFeast</h1>
             </div>
-            <div className="serach">
+            <div className="search">
+               <div className="searchbox mr-5">
+                <input type="text"  placeholder='Search here'/>
+                </div>
+                <div className='button rounded-md w-16 '>
+                <button>Search</button>
+               </div>
 
             </div>
             <div className="user">

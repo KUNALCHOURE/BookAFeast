@@ -26,3 +26,18 @@ body, html {
     border-radius: 25px;
     border: none;
 }
+
+.search{
+    display: flex;
+    align-items: center;
+}
+.searchbox{
+    border: 1px solid black;
+}
+.button{
+    border: 1px solid black;
+    text-align: center;
+    background-color: #c92a3a;
+    color: white;
+
+}
