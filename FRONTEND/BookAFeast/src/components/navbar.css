@@ -44,11 +44,26 @@ body, html {
 .searchbox input {
     border: none;
     padding: 5px 10px;
-    border-radius: inherit; /* Inherits border-radius from the parent */
-    outline: none; /* Removes the outline on focus */
+    border-radius: inherit;
+    outline: none; 
     width: 200px;
 }
 
+.search-button {
+    height: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 10px;
+    background-color: #f8f9fa;
+    border-left: 1px solid #ccc; /* Creates a divider between the input and the button */
+    cursor: pointer;
+    color: #333;
+   
+}
+.search-button:hover {
+    background-color: #e2e6ea;
+}
 .button {
     border: none;
     text-align: center;

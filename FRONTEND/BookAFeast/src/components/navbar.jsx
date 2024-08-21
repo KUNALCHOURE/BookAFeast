@@ -11,7 +11,7 @@ export default function Navbar(){
             <div className="search">
                <div className="searchbox mr-5 rounded-2xl">
                 <input type="text"  placeholder='Search here' />
-                <div className='search-button mr-2 border border-slate-600'>
+                <div className='search-button rounded-r-xl'>
                 <i class="fa-solid fa-magnifying-glass"></i>
                 </div>
                 </div>
