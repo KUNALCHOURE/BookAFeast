@@ -9,7 +9,7 @@ export default function Navbar(){
                 <h1>BookAFeast</h1>
             </div>
             <div className="search">
-               <div className="searchbox mr-5 rounded-sm">
+               <div className="searchbox mr-5 rounded-2xl">
                 <input type="text"  placeholder='Search here' />
                 </div>
                 <div className='button rounded-3xl p-0.5'>
