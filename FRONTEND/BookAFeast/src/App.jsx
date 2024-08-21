@@ -9,8 +9,16 @@ function App() {
 
   return (
     <>
-     <Navbar></Navbar>
-     <Footer/>
+       <div className="flex flex-col min-h-screen">
+        <Navbar></Navbar>
+      
+      <main className="flex-grow">
+        
+      </main>
+      <Footer/>
+    </div>
+  
+     
     </>
   )
 }
