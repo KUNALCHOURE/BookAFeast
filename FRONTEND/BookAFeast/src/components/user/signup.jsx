@@ -3,7 +3,7 @@ import './signup.css'
 export default function Signup(){
     return (
     <form className="signup-form">
-    <h2>Sign Up</h2>
+    <h2><b>Sign Up</b></h2>
     <div className="form-group">
       <label htmlFor="name">User Name</label>
       <input
