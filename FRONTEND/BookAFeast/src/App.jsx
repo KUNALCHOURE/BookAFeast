@@ -4,7 +4,7 @@ import Footer from './components/footer'
 import './index.css'
 import './App.css'
 import Signup from './components/user/signup'
-
+import Login from './components/user/login'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -18,8 +18,8 @@ function App() {
       </main>
       <Footer/>
     </div> */}
-
-<Signup/>
+{/* <Signup/> */}
+<Login/>
 
      
     </>
