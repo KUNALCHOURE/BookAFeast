@@ -1,6 +1,8 @@
 import './navbar.css'
 export default function Navbar(){
 
+
+
      return (
         <>
         
@@ -24,7 +26,7 @@ export default function Navbar(){
 
             </div>
             <div className="user">
-                <button className='btn'>Sign in</button>
+                <button className='btn' >Sign in</button>
                 <button className='btn'>Log in</button>
             </div>
           </div>
