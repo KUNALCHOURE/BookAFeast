@@ -17,10 +17,10 @@ export default function Navbar(){
                 <i class="fa-solid fa-magnifying-glass"></i>
                 </div>
                 </div>
-                <div className='button rounded-3xl p-0.5'>
-                  <span className='mr-2'>
-                <button>Search</button>
-                </span>
+                <div className='button'>
+                  
+                <button className='seach-but'>Search</button>
+                
                 
                </div>
 

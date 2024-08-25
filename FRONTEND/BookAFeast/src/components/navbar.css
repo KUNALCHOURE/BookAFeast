@@ -54,7 +54,7 @@ body, html {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 5px 10px;
+   /* padding: 5px 10px;*/
     background-color: #f8f9fa;
     border-left: 1px solid #ccc; /* Creates a divider between the input and the button */
     cursor: pointer;
@@ -64,18 +64,16 @@ body, html {
 .search-button:hover {
     background-color: #e2e6ea;
 }
-.button {
-    border: none;
-    text-align: center;
-    background-color: #c92a3a;
-    color: white;
-    text-align: center;
+.search-but {
+    margin: 10px;
     height: 30px;
     width: 70px;
-    border-radius: 4px; 
-    cursor: pointer;
+    background-color: #c92a3a;
+    color: white;
+    border-radius: 25px;
+    border: none;
 }
 
-.button:hover {
+.search-but:hover {
     background-color: #a62331;
 }
