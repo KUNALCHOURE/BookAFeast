@@ -8,7 +8,7 @@ export default function Footer(){
         <div className="footer-section about-us">
           <h4>About Us</h4>
           <p>
-            BookAFeast is your ultimate destination for discovering and booking the best dining experiences. From fine dining to casual eateries, we've got you covered.
+            BookAFeast is your ultimate destination for discovering and booking the best dining experiences. 
           </p>
         </div>
         <div className="footer-section quick-links">
